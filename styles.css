@@ -1,0 +1,16 @@
+h1 {
+    color: darkred;
+    text-align: center;
+  }
+  h2 {
+    font-style: italic;
+    text-align: center;
+    color: hsl(147, 100%, 50%);
+  }
+  p {
+    color:gold;
+  }
+  body {
+    background-color: blue;
+    text-align: center;
+  }
