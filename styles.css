@@ -1,16 +1,27 @@
-h1 {
-    color: darkred;
-    text-align: center;
-  }
-  h2 {
-    font-style: italic;
-    text-align: center;
-    color: hsl(147, 100%, 50%);
-  }
-  p {
-    color:gold;
-  }
+
   body {
-    background-color: blue;
+    background-color:cornsilk;
     text-align: center;
+    margin:80px;
+    font-size:34%;
+}
+nav{
+    background-color:rgb(128, 0, 79);
+    position:fixed;
+    width:100%;
+    top:0;
+    left:0;
+    display: flex;
+    padding-bottom: 0px;
+    justify-content: center;
   }
+    nav>ul>li{
+        display: inline;
+        margin: 30px;
+        list-style-type: none; 
+    }
+    #footer{
+        background-color: rgb(128, 0, 79);
+        text-align-last: center;
+        padding:0%;
+    }
